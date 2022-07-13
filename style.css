@@ -1,3 +1,6 @@
+html {
+    font-family: "Yu Gothic Light", "游ゴシック Light", YuGothic, "游ゴシック体 Light";
+}
 body {
     box-sizing: border-box;
     max-width: 100%;
