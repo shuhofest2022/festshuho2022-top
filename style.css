@@ -8,6 +8,7 @@ body {
     background: black;;
     margin: 0;
     padding: 0;
+    font-family: "Yu Gothic Light", "游ゴシック Light", YuGothic, "游ゴシック体 Light";
 }
 br {
     display: block;
