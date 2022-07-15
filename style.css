@@ -63,6 +63,7 @@ br {
     display: flex;
     flex-wrap: wrap;
     flex-direction: column;
+    border: solid #ffffff;
 }
 .item a{
     display: block;
