@@ -16,6 +16,7 @@ br {
 }
 .top-header {
     background-color: #8de9f9;
+    position: fixed;
     z-index: 10;
     box-sizing: border-box;
     justify-content: space-between;
