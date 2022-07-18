@@ -1,4 +1,7 @@
 body {
+    background: -moz-linear-gradient(top left, #ddfffc, #23f4e4); 
+    background: -webkit-linear-gradient(top left, #ddfffc, #23f4e48); 
+    background: linear-gradient(to bottom right,#ddfffc, #23f4e4); 
     box-sizing: border-box;
     max-width: 100%;
     text-align: center;
