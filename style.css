@@ -15,6 +15,7 @@ br {
     padding: 10px 0;
 }
 .top-header {
+    background-color: #8de9f9;
     z-index: 10;
     box-sizing: border-box;
     justify-content: space-between;
