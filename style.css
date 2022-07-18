@@ -30,9 +30,6 @@ br {
 @media (min-width: 700px) {
     .logo {
         padding: 10px;
-        align-items: center;
-        justify-content: center;
-        text-align: center;
         color:#fff;
     }
 }
