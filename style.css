@@ -32,6 +32,7 @@ br {
 }
 @media (min-width: 700px) {
     .logo {
+        font-size: 50px;
         padding: 10px;
         align-items: center;
         justify-content: center;
@@ -40,6 +41,7 @@ br {
 }
 @media (max-width: 699px) {
     .logo {
+        font-size: 30px;
         display: flex;
         align-items: center;
         justify-content: center;
