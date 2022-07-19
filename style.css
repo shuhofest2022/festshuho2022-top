@@ -9,11 +9,6 @@ body {
     padding: 0;
     color:black;
 }
-br {
-    display: block;
-    content: "";
-    padding: 10px 0;
-}
 .top-header {
     background-color: #a7f6f6;
     left: 0;
