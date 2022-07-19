@@ -46,6 +46,7 @@ body {
     }
 }
 .item {
+    color: white;
     list-style: none;
     display: flex;
     flex-wrap: wrap;
