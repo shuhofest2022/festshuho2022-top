@@ -11,9 +11,7 @@ body {
     color:black;
 }
 .top-header {
-    background: -moz-linear-gradient(left, #4e53c4, #2352c4); 
-    background: -webkit-linear-gradient(left, #4e53c4, #2352c4); 
-    background: linear-gradient(to right,#4e53c4, #2352c4);
+    background: linear-gradient(#4e53c4, #2352c4);
     left: 0;
     top: 0;
     position: fixed;
