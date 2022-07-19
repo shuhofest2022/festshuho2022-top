@@ -8,7 +8,7 @@ body {
     background: linear-gradient(to bottom right,#4e53c4, #0048c4); 
     margin: 0;
     padding: 0;
-    color:black;
+    color:white;
 }
 .top-header {
     background-color: #2352c4;
@@ -61,7 +61,7 @@ body {
 }
 .item a:hover {
     background-color:#8de9f9;
-    color: black;
+    color: white;
 }
 .stars {
     max-height: 2000px;
